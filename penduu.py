@@ -32,7 +32,7 @@ def resfill(res,lettre,mot,):
     j = 0
     while
 
-
+# a finir
 
 
 
